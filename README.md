@@ -7,4 +7,4 @@ python db_lookup_v1.0.py <database.sql>
 python db_lookup_v1.5 <database.sql> <string_to_search>
 #
 # Version 2.0
-python db_lookup_v2.0.py </root/databases/> <string_to_search> 
+python db_lookup_v2.0.py <string_to_search> </root/databases/>
