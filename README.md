@@ -4,7 +4,7 @@ Simple string searcher developed in Python, mostly used for searching for leaked
 python db_lookup_v1.0.py <database.sql>
 # 
 # Version 1.5
-python db_lookup_v1.5 <database.sql> <string>
+python db_lookup_v1.5 <database.sql> <example@gmail.com>
 #
 # Version 2.0
-python db_lookup_v2.0.py </root/databases/> <string> 
+python db_lookup_v2.0.py </root/databases/> <example@gmail.com> 
