@@ -1,8 +1,8 @@
 #!/usr/bin/env python
-#|-------------------------------------------|#
-#|  Usage: python db_lookup.py database.sql  |#
-#|  Simple database lookup | by Chris Poole  |#
-#|-------------------------------------------|#
+#|---------------------------------------------|#
+#|  Usage: python db_lookup.py <database.sql>  |#
+#|  Simple database lookup | by Chris Poole    |#
+#|---------------------------------------------|#
 
 import sys
 
